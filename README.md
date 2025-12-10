@@ -1,6 +1,6 @@
 # overbacklogged (unofficial)
 
-A parallel client to re;imagine and enhance the Backlog experience.
+Drowning in tasks? **overbacklogged** is the Backlog client optimized for visualizing the overview.
 
 ## Key Features
 - **Multiple accounts**
